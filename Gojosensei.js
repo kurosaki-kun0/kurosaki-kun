@@ -1294,11 +1294,11 @@ GojoMdNx.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${san
       case 'bsdk':
       case 'bhosdk':
       case 'nigger':
-      case 'loda':
+      case 'ka7loch':
       case 'laund':
       case 'nigga':
-      case 'sexy':
-      case 'hot': {
+      case 'kitchen':
+      case 'slowmotion': {
             if (!m.isGroup) return replay(`${mess.group}`)
             let member = participants.map(u => u.id)
             let me = m.sender
@@ -3295,7 +3295,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Shashi burina thaicho🎉
+┌┤✑  こんにちは🎉
 ││✑  🐦🖐️!!
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
@@ -3356,7 +3356,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Daijobka sempai?😄
+┌┤✑  Daijobuka senpai?😄
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
@@ -3683,7 +3683,7 @@ case 'allmenu': {
 ┃╠ ${prefix}smart
 ┃╠ ${prefix}stubble
 ┃╠ ${prefix}dog
-┃╠ ${prefix}horny
+┃╠ ${prefix}black
 ┃╠ ${prefix}cunt
 ┃╠ ${prefix}wibu
 ┃╠ ${prefix}tictactoe
@@ -3899,7 +3899,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}smart
 ┃╠ ${prefix}stubble
 ┃╠ ${prefix}dog
-┃╠ ${prefix}horny
+┃╠ ${prefix}black
 ┃╠ ${prefix}cunt
 ┃╠ ${prefix}wibu
 ┃╠ ${prefix}tictactoe
